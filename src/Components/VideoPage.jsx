@@ -1,5 +1,5 @@
 // import React from 'react'
-import { ZegoUIKitPrebuilt } from '@zegocloud/zego-uikit-prebuilt';
+import ZegoUIKitPrebuilt from '@zegocloud/zego-uikit-prebuilt';
 import { useParams } from 'react-router-dom';
 import { APP_ID, SERVER_SECRET } from './Constants';
 
